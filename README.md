@@ -10,7 +10,7 @@ Desenvolvedor **full stack** de Uberaba-MG, Brasil. Crio APIs REST, sites e sist
 
 | Projeto | O que faz | Tecnologias |
 | --- | --- | --- |
-| [**Doce Encanto: pedidos online para confeitaria**](https://github.com/Kidolegends/confeitaria-pedidos) | Site com cardápio e pedidos online pelo celular, aviso no WhatsApp e painel administrativo com encomendas, agenda semanal, produtos com fotos e configurações da loja | Node.js, TypeScript, React, Express, Prisma, PostgreSQL/SQLite, Docker |
+| [**Doce Encanto: pedidos online para confeitaria**](https://github.com/Kidolegends/confeitaria-pedidos) | Site com cardápio e pedidos online pelo celular, aviso no WhatsApp e painel administrativo com encomendas, agenda semanal, produtos com fotos e configurações da loja | Node.js, TypeScript, React, Express, Prisma, PostgreSQL/SQLite, Docker · [**ver demonstração**](https://doce-encanto-demo.onrender.com) |
 | [**API de Agendamento**](https://github.com/Kidolegends/agendamento-api) | API para salões e clínicas com login, profissionais, serviços, horários de trabalho, consulta de horários livres e bloqueio de conflitos | Node.js, TypeScript, Express, Prisma, JWT, Swagger, Vitest |
 
 ## 🛠️ Tecnologias
